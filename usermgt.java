@@ -1,4 +1,6 @@
 landmark
 simon
 Abiola
-Dominion 
+Dominion
+Juwon
+Jimi 
